@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+  <Configuration ConfiguredType="Property" Path="\Package.Connections[USPC SSIS Configuration].Properties[ConnectionString]" ValueType="String">
+    <ConfiguredValue>Data Source=ITKRSQL016D;Initial Catalog=USPC_SSIS_Config_QA;Provider=SQLNCLI10.1;UID=USPC_SSIS_QA_ID;PWD=WayCool!;Auto Translate=False;</ConfiguredValue>
+  </Configuration>
+</DTSConfiguration>
