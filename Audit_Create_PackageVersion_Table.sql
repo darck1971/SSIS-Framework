@@ -1,4 +1,4 @@
-USE [USPC_SSIS_Audit_QA]
+USE [mydatabase]
 GO
 
 /****** Object:  Table [dbo].[PackageVersion]    Script Date: 3/17/2016 11:49:31 AM ******/

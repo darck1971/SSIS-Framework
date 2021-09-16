@@ -1,4 +1,4 @@
-USE [USPC_SSIS_Audit_QA]
+USE [mydatabase]
 GO
 
 /****** Object:  StoredProcedure [dbo].[usp_LogTaskPostExecute]    Script Date: 3/17/2016 11:52:57 AM ******/

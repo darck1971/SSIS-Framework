@@ -32,7 +32,7 @@
 <DTS:Property DTS:Name="Description"></DTS:Property>
 <DTS:Property DTS:Name="CreationName">OLEDB</DTS:Property><DTS:ObjectData><DTS:ConnectionManager>
 <DTS:Property DTS:Name="Retain">0</DTS:Property><DTS:Password DTS:Name="Password" Sensitive="1"></DTS:Password>
-<DTS:Property DTS:Name="ConnectionString">Data Source=ITKRSQL016D;User ID=USPC_SSIS_QA_ID;Initial Catalog=USPC_SSIS_Audit_QA;Provider=SQLNCLI10.1;Application Name=Uspc-Ssis-Template.Audit;Auto Translate=False;</DTS:Property></DTS:ConnectionManager></DTS:ObjectData></DTS:ConnectionManager>
+<DTS:Property DTS:Name="ConnectionString">Data Source=ITKRSQL016D;User ID=USPC_SSIS_QA_ID;Initial Catalog=mydatabase;Provider=SQLNCLI10.1;Application Name=Uspc-Ssis-Template.Audit;Auto Translate=False;</DTS:Property></DTS:ConnectionManager></DTS:ObjectData></DTS:ConnectionManager>
 <DTS:ConnectionManager>
 <DTS:Property DTS:Name="DelayValidation">0</DTS:Property>
 <DTS:Property DTS:Name="ObjectName">USPC SSIS Configuration</DTS:Property>
